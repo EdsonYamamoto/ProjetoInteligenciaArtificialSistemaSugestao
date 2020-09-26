@@ -1,3 +1,3 @@
-instalacao requirements_gpu.txt
+instalacao requirements.txt
 
 main.ipynb
